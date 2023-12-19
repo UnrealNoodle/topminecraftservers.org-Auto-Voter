@@ -1,2 +1,34 @@
 # topminecraftservers.org-Auto-Voter
 Made using AutoHotkey, only for voting automation. Includes compiled binaries and source code.
+
+*Developer Info* 
+Minecraft Username - ANOOBSTEVE
+Github - https://github.com/UnrealNoodle
+
+*Scripting Language* 
+AutoHotkey v1.1.37.01 [https://www.autohotkey.com/download/ahk-install.exe]
+
+*Disclaimer*
+For educational purposes only.
+
+*How To Run*
+1. Go to the "Compiled [Exe]" folder.
+2. Open the "config.ini" file.
+3. Enter your username and voting link.
+4. Save changes.
+5. Run the "TopMinecraftServers.org [AutoVoter].exe" executable.
+
+*Important Info*
+In case the script messes up with the timings, just install AutoHotkey and then edit the
+script and make it suitable to your timings so it works perfectly. I put the timings at default
+based on my Wi-Fi speed, you can change yours if you want to.
+
+*Note*
+This script is made only for automation so that you don't have to manually click through the
+link and type the info. You can use this script to automatically vote everyday without you
+having to open your browser and type the link and do the voting stuff.
+
+*Is It Safe?*
+Yes this script is 100% safe. You can scan the executable for yourself or go through my
+source code where you can look through the different files and the script and you can compile
+it yourself.
