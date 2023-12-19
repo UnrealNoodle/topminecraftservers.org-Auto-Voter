@@ -1,0 +1,5 @@
+*Follow These Simple Steps*
+1. Open the "config.ini" file.
+2. Enter your username and voting link.
+3. Save changes.
+4. Run the "TopMinecraftServers.org [AutoVoter].exe" executable.

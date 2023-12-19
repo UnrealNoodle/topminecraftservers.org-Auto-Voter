@@ -1,0 +1,12 @@
+*Follow These Simple Steps*
+1. Download AutoHotkey v1.1.37.01 [https://www.autohotkey.com/download/ahk-install.exe]
+2. Complete The Setup
+3. Once It's Done Installing AutoHotkey v1.1.37.01, Right Click On The "TopMinecraftServers.org [AutoVoter].ahk" File
+4. Click On The Option That Says Compile Script (GUI)...
+5. If You Want You Can Add An Icon To Your Executable
+6. Once Done Click The "Convert" Button
+7. You Should Find Your Executable In The Same Directory As The Script
+8. Also The Icon Might Look Like An H, All You Have To Do Is Put The Executable In A Different Directory
+
+*Why Compile When You Can Just Run The AutoHotkey Script Directly With The .ahk Extension?*
+It's your wish, I just did it cause it looks cool and clean. Compiling is optional, I just wrote steps on how to compile the script in case you guys also think having an executable form is cool and clean but don't know how to compile.
